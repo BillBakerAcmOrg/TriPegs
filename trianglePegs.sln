@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F8BED246-2FB4-421C-8817-22CCB727DAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trianglePegs", "trianglePegs\trianglePegs.csproj", "{00B0F018-3E03-4F6D-BAE4-12B657D21FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGamePlay", "trianglePegs\TestGamePlay\TestGamePlay.csproj", "{17D3F067-1DB3-4D0A-834E-301786BB74C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriRunner", "TriRunner\TriRunner.csproj", "{F1A6E0FD-2DF3-434B-BA5B-58D142E167C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianglePegsLibrary", "TrianglePegsLibrary\TrianglePegsLibrary.csproj", "{6B37EC2F-EFF5-41ED-9DCB-B3D9DB810239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B0F018-3E03-4F6D-BAE4-12B657D21FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B0F018-3E03-4F6D-BAE4-12B657D21FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B0F018-3E03-4F6D-BAE4-12B657D21FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B0F018-3E03-4F6D-BAE4-12B657D21FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D3F067-1DB3-4D0A-834E-301786BB74C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D3F067-1DB3-4D0A-834E-301786BB74C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D3F067-1DB3-4D0A-834E-301786BB74C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D3F067-1DB3-4D0A-834E-301786BB74C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A6E0FD-2DF3-434B-BA5B-58D142E167C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A6E0FD-2DF3-434B-BA5B-58D142E167C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A6E0FD-2DF3-434B-BA5B-58D142E167C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A6E0FD-2DF3-434B-BA5B-58D142E167C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B37EC2F-EFF5-41ED-9DCB-B3D9DB810239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B37EC2F-EFF5-41ED-9DCB-B3D9DB810239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B37EC2F-EFF5-41ED-9DCB-B3D9DB810239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B37EC2F-EFF5-41ED-9DCB-B3D9DB810239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
